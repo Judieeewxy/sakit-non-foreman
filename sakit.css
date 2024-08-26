@@ -1,0 +1,36 @@
+body{
+    background-color: snow;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 12px;
+    font-family: sans-serif;
+    border-style: groove;
+    background: gold;
+    border-radius: 7px;
+    border: 2px solid black;
+   
+}
+
+h2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+ol{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+a{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
